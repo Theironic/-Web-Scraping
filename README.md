@@ -6,7 +6,7 @@
 <p>
   - python 3 <br>
   - BeautifulSoup <br>
-  - requests
-  
+  - requests 
 </p>
+<img src="https://img.freepik.com/free-vector/flat-illustration-content-management-system_23-2148815111.jpg?t=st=1718919891~exp=1718923491~hmac=f0320bc4f0024f28ee41b89e11bced806bac487897303862cd0d54ce9d425794&w=740" alt="image by freepik" >
 
